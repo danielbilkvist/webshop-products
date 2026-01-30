@@ -117,3 +117,19 @@ if (productPrice < productPrice2) {
 } else {
   console.log(`${productTitle2} er billigst, og koster ${productPrice2} kr.`);
 }
+
+
+
+  // tjek lagerstatus
+  /* let stockText; // tekst til lagerstatus
+  let stockClass; // CSS-klasse til lagerstatus
+  if (product.inStock) {
+    // hvis produktet er på lager
+    stockText = "På lager";
+    stockClass = "in-stock";
+  } else {
+    // hvis produktet er udsolgt
+    stockText = "Udsolgt";
+    stockClass = "out-of-stock";
+  }*/
+ 
